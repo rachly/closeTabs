@@ -1,0 +1,8 @@
+C:\projects\my-Shyduch\CloseTabs\obj\Debug\CloseTabs.csproj.AssemblyReference.cache
+C:\projects\my-Shyduch\CloseTabs\obj\Debug\CloseTabs.csproj.SuggestedBindingRedirects.cache
+C:\projects\my-Shyduch\CloseTabs\obj\Debug\CloseTabs.csproj.CoreCompileInputs.cache
+C:\projects\my-Shyduch\CloseTabs\bin\Debug\CloseTabs.exe.config
+C:\projects\my-Shyduch\CloseTabs\bin\Debug\CloseTabs.exe
+C:\projects\my-Shyduch\CloseTabs\bin\Debug\CloseTabs.pdb
+C:\projects\my-Shyduch\CloseTabs\obj\Debug\CloseTabs.exe
+C:\projects\my-Shyduch\CloseTabs\obj\Debug\CloseTabs.pdb
